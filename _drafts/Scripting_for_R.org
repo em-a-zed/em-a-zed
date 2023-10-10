@@ -1,0 +1,71 @@
+#+begin_export html
+---
+title: "Script Editors for R"
+excerpt_separator: "<!--more-->"
+categories:
+  - Open_Source_Software
+tags:
+  - Emacs
+  - ESS
+  - R
+  - RStudio
+  - Textmate
+  - Atom
+---
+#+end_export
+
+#+options: toc:nil 
+#+EXPORT_FILE_NAME: ~/NewTheme/_posts/2019-02-10-Scripting_for_R.md 
+
+Although I am an Emacs fan, I do realize that Emacs is not the only
+tool for certain tasks. In particular, scripting for R can be done in
+many open source ways.
+
+@@html: <!--more-->@@
+
+I have already spoken of Emacs, in particular of the Emacs Speaks
+Statistics project ([[https://ess.r-project.org][ESS]]), which
+provides for an out-of-the-box R-ready version of Emacs. The big
+advantage of this solution is that I can switch from one task to the
+other (i.e. write a post, a research paper, an R script, edit my web
+site files, or produce slides for my lessons), all the time remaining
+comfortably within the same editing environment. 
+
+An unbiased view of scripting environments for working with R cannot
+ignore other valid solutions. In particular, one of the most powerful
+and increasingly popular open source tools is the
+[[https://www.rstudio.com][RStudio]] package. RStudio is actually much
+more than a scripting editor for R. Citing the description given by
+the developers: "/RStudio is an integrated development environment/
+/(IDE) for R. It includes a console, syntax-highlighting editor that/
+/supports direct code execution, as well as tools for plotting,
+history, debugging and workspace management/". Not only, RStudio also
+provides on-board tools for authoring HTML, PDF, Word Documents, and
+slide shows. Admittedly a pretty impressive package. In addition,
+RStudio's GUI is based upon R-dedicated icon and drop-down menus,
+which is the main reason why I generally introduce R to beginners
+using RStudio as the script editor.
+
+[[https://macromates.com][Textmate]] is another open source option
+worth considering in this context. It is a text editor which can be
+customized to work with a large number of scripting and programming
+languages, including R of course. In this respect Textmate provides a
+comfortable and powerful R scripting environment with a lot of the R
+functionality, when in R mode, present as pull-down menu options. The
+only 'limit' is that Textmate is available only for MacOSX.
+
+Yet another, cross-platform, powerful, open source text editor is
+[[https://atom.io][Atom]]. Defined as: "/A hackable text editor for
+the 21st Century/" this has become a favourite among many
+developers. I personally don't use Atom, but only because, at a
+certain point, I decided to commit to some tools, not really having
+the time to fully explore the potential of all the available options.
+
+
+
+
+
+
+
+
+
