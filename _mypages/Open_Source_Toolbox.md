@@ -39,7 +39,7 @@ of Biological Sciences, can profit from the use of open source software.
 - Also *ImageJ (Fiji)* is a very powerful package for image processing and
   analysis, specifically designed for microscopy imaging applications. 
 
-### The open *sourcerer's* <img src="/assets/images/wizard.png" alt=" wizard" height="42" width="42"> toolkit: 
+### The open *sourcerer's* <img src="/assets/images/wizard.png" alt=" wizard" height="22" width="22"> toolkit: 
 <a href="https://www.gnu.org/s/emacs/"> 
 	<img src="/assets/images/EMACS.png" alt="EMACS" height="42" width="42"></a> 
 <a href="https://orgmode.org">
