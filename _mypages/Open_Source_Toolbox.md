@@ -45,7 +45,7 @@ of Biological Sciences, can profit from the use of open source software.
 <a href="https://orgmode.org">
 	<img src="/assets/images/OrgMode_logo.png" alt="EMACS Org-mode" height="42" width="42"></a>
 <a href="https://macromates.com">
-	<img src="/assets/images/TextMate_logo.png" alt="A text editor for Mac OSX" height="42" width="42"></a>
+	<img src="/assets/images/TextMate_logo.jpg" alt="A text editor for Mac OSX" height="42" width="42"></a>
 <a href="https://jekyllrb.com/">
 	<img src="/assets/images/jekyll_github.png" alt="Jekyll" height="80" width="80"></a> 
 <a href="https://www.ruby-lang.org/">
