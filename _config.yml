@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+AVE# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # default  "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "BEHAVE YOURSELF!"
 title_separator          : "-"
 name                     : "M@Z"
 description              : "An amazing website, we hope!!!"
